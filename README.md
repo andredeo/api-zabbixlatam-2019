@@ -15,3 +15,6 @@ http://localhost:8080/api/zabbix
 
 ## Documentação e Exemplos no Postman
 Basta baixar o arquivo [ZabbixConf.postman_collection.json](https://github.com/andredeo/api-zabbixlatam-2019/blob/master/ZabbixConf.postman_collection.json) e importar no [Postman](https://www.getpostman.com/).
+
+## Zabbix
+Basta importar o arquivo [zbx_export_hosts.xml](https://github.com/andredeo/api-zabbixlatam-2019/blob/master/zbx_export_hosts.xml) que o host APIs será criado. **Não se esqueça de alterar as Macros do host.**
