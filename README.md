@@ -3,8 +3,8 @@ Repositório com os arquivos da apresentação da palestra [Monitoramento de Apl
 
 ## Imagem Docker
 ```sh
-docker pull thalesreis/zabbixconf
-docker run -d -p 8080:80 --name zabapi thalesreis/zabbixconf
+$ docker pull thalesreis/zabbixconf
+$ docker run -d -p 8080:80 --name zabapi thalesreis/zabbixconf
 ```
 
 O acesso pode ser feito nos endereços:
