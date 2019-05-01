@@ -1,5 +1,5 @@
 # api-zabbixlatam-2019
-Repositório com os arquivos da apresentação da palestra [Monitoramento de Aplicações Web Modernas com Zabbix] (https://www.slideshare.net/andredeo/monitoramento-de-aplicaes-web-modernas-com-zabbix) apresentada na [Zabbix Conference LatAm 2019] (https://conference.zabbix.com.br)
+Repositório com os arquivos da apresentação da palestra [Monitoramento de Aplicações Web Modernas com Zabbix](https://www.slideshare.net/andredeo/monitoramento-de-aplicaes-web-modernas-com-zabbix) apresentada na [Zabbix Conference LatAm 2019](https://conference.zabbix.com.br)
 
 ## Imagem Docker
 ```sh
